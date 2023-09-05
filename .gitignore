@@ -1,0 +1,6 @@
+app/*
+db/mysql/*
+!db/mysql/.keep
+.idea/*
+log/*
+```
